@@ -4,5 +4,6 @@ public class Test {
         System.out.println("不想上班");
         System.out.println("还是早点上班吧");
         System.out.println("唉，真的是");
+        System.out.println("分支");
     }
 }
