@@ -6,5 +6,6 @@ public class Test {
         System.out.println("唉，真的是");
         System.out.println("master");
         System.out.println("分支");
+        System.out.println("远程库修改");
     }
 }
